@@ -83,4 +83,4 @@ This was a **collaborative robotics programming project**. My contributions incl
 
 Automated tests check selected analytical cases, but they do not prove correctness for every geometry or every possible parameter combination. The application and tests can be reviewed directly; no unverified screenshots or benchmark figures have been added.
 
-**[Return to engineering portfolio](https://github.com/LezBe/Leziga_Portfolio)**
+**[Return to engineering portfolio](https://github.com/LezigaBeage/Leziga_Portfolio)**
